@@ -36,12 +36,14 @@ This project was created for training and to practice:
 
 
 
-## 📂 Folder Structure (lib/
+## 📂 Folder Structure 
+(
+lib/
 ├─ main.dart
 ├─ home.dart
 ├─ make_task.dart
 └─ mod/
-└─ coustm_textfiled.darف
+└─ coustm_textfiled.dart
 )
 
 
